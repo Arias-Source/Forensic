@@ -1,9 +1,6 @@
-I do not condone or endorse anything on this repository. The resources, websites, tools, and code provided are for educational purposes only. While the content shared here is not NSFW or illegal in nature, it is important to understand that how people use these resources is their responsibility. I am not responsible for any misuse or unlawful actions that may result from accessing or applying the information provided.
+I do not condone or endorse any activities associated with the links in this repository. This repository contains links to various resources, including websites related to piracy, security, and other topics. While these links are shared for educational purposes only, I am not responsible for how these resources are used.
 
-By using this repository, you agree to use the content legally, ethically, and responsibly.
+You are solely responsible for ensuring that your use of any linked content complies with all applicable laws and regulations. I do not support or encourage any illegal activities such as piracy, unauthorized content distribution, or any other unlawful actions.
 
-Use at Your Own Risk:
-The content here is provided "as is," without warranty of any kind, either expressed or implied. By accessing or using the content in this repository, you accept all risks associated with its use. I am not responsible for any damage, loss, or consequences that may arise from the use of this content.
-
-
+By accessing this repository, you agree to use the information responsibly and ethically.
 
