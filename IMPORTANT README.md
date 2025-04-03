@@ -1,6 +1,6 @@
-I do not condone or endorse any activities associated with the links in this repository. This repository contains links to various resources, including websites related to piracy, security, and other topics. While these links are shared for educational purposes only, I am not responsible for how these resources are used.
+I do not endorse anything associated with the links in this repository. I am here solely to teach and showcase my projects for educational purposes.
 
-You are solely responsible for ensuring that your use of any linked content complies with all applicable laws and regulations. I do not support or encourage any illegal activities such as piracy, unauthorized content distribution, or any other unlawful actions.
+The information in this repository is shared for educational purposes only. I am not responsible for how it may be used.
 
-By accessing this repository, you agree to use the information responsibly and ethically.
+You are solely responsible for ensuring that your use of any information complies with all applicable laws and regulations. I do not support or encourage any ill-intended or unlawful activities.
 
