@@ -5,7 +5,7 @@ import pytz
 class DigitalClock:
     def __init__(self, root):
         self.root = root
-        self.root.title("🔥 Flame Clock (Los Angeles Time) 🔥")
+        self.root.title("Clock (Los Angeles Time)")
         self.root.geometry("1920x1080")  # Set the window size for 1920x1080
         self.root.configure(bg='black')
 
